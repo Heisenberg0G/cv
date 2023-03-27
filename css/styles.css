@@ -1,6 +1,8 @@
 body{
     text-align: center;
+    
     margin: 0;
+    
 }
 hr{
     width: 5%;
@@ -138,15 +140,16 @@ a{
     margin-bottom: 0;   
 }
 .dp{
-    height:200px;
+    height: 200px;
     width: 200px;
-    padding-top:50px;
+    padding-top: 50px;
 }
 .Intro{
-    width:30%;
+    width: 30%;
     margin: 0 auto 0 auto;
 }
 .employment{
-    width:30%;
+    width: 30%;
     margin: 0 auto 0 auto;
 }
+
